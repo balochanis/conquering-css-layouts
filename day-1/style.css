@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.parent {
+    background-color: darkcyan;
+    padding: 50px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.child {
+    background-color: cyan;
+    height: 250px;
+}
